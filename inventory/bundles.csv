@@ -1,0 +1,9 @@
+area,tipo,repo_path,size_bytes,contained_files
+Abilitazione-30-CFU,Portfolio-e-relazioni,packages/Abilitazione-30-CFU/Portfolio-e-relazioni.zip,9912776,57
+Archivio-vario,Altri-progetti,packages/Archivio-vario/Altri-progetti.zip,8132885,136
+Documentazione-scolastica,Programmazione,packages/Documentazione-scolastica/Programmazione.zip,74064,14
+Fisica,Laboratori,packages/Fisica/Laboratori.zip,127310,13
+Fisica,Verifiche,packages/Fisica/Verifiche.zip,4067960,82
+Matematica,Verifiche,packages/Matematica/Verifiche.zip,12270554,235
+Materiali-didattici,Dispense-ed-esercizi,packages/Materiali-didattici/Dispense-ed-esercizi.zip,5082592,54
+Template,Varie,packages/Template/Varie.zip,4220051,143
